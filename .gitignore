@@ -3,3 +3,6 @@
 *.pkl
 .ipynb_checkpoints
 *.json
+*.txt
+*.png
+.pycache
